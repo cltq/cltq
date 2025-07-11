@@ -1,9 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sapphire</h1>
-<h3 align="center">A passionate backend (and little frontend) developer from Thailand</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=celestianv&label=Profile%20views&color=0e75b6&style=flat" alt="celestianv" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celestianv&show_icons=true&locale=en" alt="celestianv" /></p>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+ 
+<h3 align="center">
+  Hi, I'm Sapphire
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+ 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend;Front-End&ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
+ 
+---
+ 
+- 👨‍💻 I am a Backend Developer with a little knowledge of frontend. But still learning right now!
+- 📱 I also learning to make Mobile Apps using React Native.
+ 
+## Tech Stack
+### Tools
+![](https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux&color=%233a3e3f&link=https%3A%2F%2Flinktr.ee%2Fcelestiacv)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Profile Statistics
+ 
+ <div align=center>
+ 
+![](https://github-readme-stats.vercel.app/api?username=CelestiaNV&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+ 
+</div>
+ 
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelestiaNV&theme=github_dark)
+ 
+ </div>
+ 
+ ### ⏱ Streak Stats
+ 
+ <div align=center>
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CelestiaNV&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+ 
+ </div>
+ 
+ ### 📈 Activity Graph
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CelestiaNV&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+### 📊 Most Used Language
+ 
+ <div align=center>
+ 
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=CelestiaNV&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+ 
+ </div>
+ 
+---
+ 
+### 🔗 &nbsp;Contact Me
+![](https://img.shields.io/badge/LinkTree-green?style=for-the-badge&logo=linktree&color=%233a3e3f&link=https%3A%2F%2Flinktr.ee%2Fcelestiacv)

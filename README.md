@@ -57,6 +57,3 @@
  </div>
  
 ---
- 
-### 🔗 &nbsp;Contact Me
-![](https://img.shields.io/badge/LinkTree-green?style=for-the-badge&logo=linktree&color=%233a3e3f&link=https%3A%2F%2Flinktr.ee%2Fcelestiacv)
